@@ -1,0 +1,7 @@
+i- hosts: all
+  tasks:
+      - name: Create file
+        file:
+            path: /tmp/Raja
+            state: touch
+
