@@ -1,0 +1,11 @@
+Apply OS patches and upgrades on a regular basis, and upgrade administrative tools and utilities.
+
+
+
+
+Adding/creating the file systems through LVM.
+
+Working in Incident tickets and Request tickets on priority basis.
+
+Co-ordinate and follow-up with Vendor to troubleshoot and resolve H/W issues.
+
