@@ -2,6 +2,6 @@
   tasks:
       - name: Create file
         file:
-            path: /tmp/Raaja
+            path: /tmp/Raajja
             state: touch
 
