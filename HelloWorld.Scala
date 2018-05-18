@@ -6,7 +6,3 @@ object HelloWorld {
       println("Hello, world!") // prints Hello World
    }
 }
-segment_tga_subscription_apple_20180306
-segment_tga_subscription_google
-segment_tga_subscription_roku
-segment_tga_subscription_samsung
